@@ -1,0 +1,688 @@
+[
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 32.0,
+        "endTime": 34.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8016493320465088
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 36.0,
+        "endTime": 38.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8494768738746643
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 42.0,
+        "endTime": 44.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.931890606880188
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 44.0,
+        "endTime": 46.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8068339824676514
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 46.0,
+        "endTime": 48.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8171276450157166
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 54.0,
+        "endTime": 56.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.813066840171814
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 56.0,
+        "endTime": 58.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.898726224899292
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 58.0,
+        "endTime": 60.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9337594509124756
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 62.0,
+        "endTime": 64.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.817450761795044
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 64.0,
+        "endTime": 66.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9415381550788879
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 76.0,
+        "endTime": 78.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9116839170455933
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 80.0,
+        "endTime": 82.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9238951802253723
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 82.0,
+        "endTime": 84.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8268445134162903
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 84.0,
+        "endTime": 86.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9093791246414185
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 86.0,
+        "endTime": 88.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9149453639984131
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 94.0,
+        "endTime": 96.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9519017934799194
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 96.0,
+        "endTime": 98.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.923986554145813
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 98.0,
+        "endTime": 100.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9126442670822144
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 100.0,
+        "endTime": 102.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9271519184112549
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 102.0,
+        "endTime": 104.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9475526809692383
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 132.0,
+        "endTime": 134.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9349340796470642
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 134.0,
+        "endTime": 136.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9264844655990601
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 136.0,
+        "endTime": 138.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9397242069244385
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 140.0,
+        "endTime": 142.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9368904829025269
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 142.0,
+        "endTime": 144.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9428582787513733
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 144.0,
+        "endTime": 146.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9227541089057922
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 146.0,
+        "endTime": 148.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9480531811714172
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 148.0,
+        "endTime": 150.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.946229875087738
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 150.0,
+        "endTime": 152.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9488911628723145
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 152.0,
+        "endTime": 154.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8575714826583862
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 156.0,
+        "endTime": 158.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9062837958335876
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 158.0,
+        "endTime": 160.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9318755865097046
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 164.0,
+        "endTime": 166.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9334628582000732
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 204.0,
+        "endTime": 206.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8261412978172302
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 208.0,
+        "endTime": 210.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8002508282661438
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 210.0,
+        "endTime": 212.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9534482955932617
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 212.0,
+        "endTime": 214.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9084627628326416
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 214.0,
+        "endTime": 216.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8408038020133972
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 216.0,
+        "endTime": 218.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9370745420455933
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 218.0,
+        "endTime": 220.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9375377893447876
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 220.0,
+        "endTime": 222.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.857331395149231
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 222.0,
+        "endTime": 224.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9314796924591064
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 224.0,
+        "endTime": 226.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8622274398803711
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 228.0,
+        "endTime": 230.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8791069984436035
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 230.0,
+        "endTime": 232.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8487655520439148
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 246.0,
+        "endTime": 248.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9064854383468628
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 248.0,
+        "endTime": 250.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.9237749576568604
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 252.0,
+        "endTime": 254.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8858511447906494
+        }
+    },
+    {
+        "videoId": "lXfhVxdwR0s",
+        "type": "segment",
+        "startTime": 254.0,
+        "endTime": 256.0,
+        "observer": "CSCE636Spring2021-heswaggy-3",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "coughing",
+            "labelConfidence": 0.8148314356803894
+        }
+    }
+]
