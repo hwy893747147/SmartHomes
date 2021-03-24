@@ -1,0 +1,72 @@
+[
+    {
+        "videoId": "zUiciBFdMj8",
+        "type": "segment",
+        "startTime": 6.0,
+        "endTime": 8.0,
+        "observer": "CSCE636Spring2021-heswaggy-5",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Hand washing",
+            "labelConfidence": 0.9938516616821289
+        }
+    },
+    {
+        "videoId": "zUiciBFdMj8",
+        "type": "segment",
+        "startTime": 12.0,
+        "endTime": 14.0,
+        "observer": "CSCE636Spring2021-heswaggy-5",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Hand washing",
+            "labelConfidence": 0.8823086619377136
+        }
+    },
+    {
+        "videoId": "zUiciBFdMj8",
+        "type": "segment",
+        "startTime": 14.0,
+        "endTime": 16.0,
+        "observer": "CSCE636Spring2021-heswaggy-5",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Hand washing",
+            "labelConfidence": 0.8107858896255493
+        }
+    },
+    {
+        "videoId": "zUiciBFdMj8",
+        "type": "segment",
+        "startTime": 16.0,
+        "endTime": 18.0,
+        "observer": "CSCE636Spring2021-heswaggy-5",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Hand washing",
+            "labelConfidence": 0.928661048412323
+        }
+    },
+    {
+        "videoId": "zUiciBFdMj8",
+        "type": "segment",
+        "startTime": 18.0,
+        "endTime": 20.0,
+        "observer": "CSCE636Spring2021-heswaggy-5",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Hand washing",
+            "labelConfidence": 0.9878353476524353
+        }
+    }
+]
