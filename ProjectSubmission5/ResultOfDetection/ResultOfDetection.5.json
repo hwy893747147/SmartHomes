@@ -180,33 +180,5 @@
             "label": "Hand washing",
             "labelConfidence": 0.9585602283477783
         }
-    },
-    {
-        "videoId": "eqCLHOxJlYI",
-        "type": "segment",
-        "startTime": 64.0,
-        "endTime": 66.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9841030836105347
-        }
-    },
-    {
-        "videoId": "eqCLHOxJlYI",
-        "type": "segment",
-        "startTime": 66.0,
-        "endTime": 68.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.990852415561676
-        }
     }
 ]

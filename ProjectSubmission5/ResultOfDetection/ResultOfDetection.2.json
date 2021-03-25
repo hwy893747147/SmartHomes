@@ -156,34 +156,6 @@
     {
         "videoId": "jg83AsLsNCU",
         "type": "segment",
-        "startTime": 72.0,
-        "endTime": 74.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9759450554847717
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 74.0,
-        "endTime": 76.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9028987288475037
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
         "startTime": 78.0,
         "endTime": 80.0,
         "observer": "CSCE636Spring2021-heswaggy-5",
@@ -263,48 +235,6 @@
         "observation": {
             "label": "Hand washing",
             "labelConfidence": 0.8254125118255615
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 110.0,
-        "endTime": 112.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9323745369911194
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 112.0,
-        "endTime": 114.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9401792287826538
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 114.0,
-        "endTime": 116.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.939973771572113
         }
     },
     {
@@ -571,34 +501,6 @@
         "observation": {
             "label": "Hand washing",
             "labelConfidence": 0.9421685338020325
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 160.0,
-        "endTime": 162.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9401180744171143
-        }
-    },
-    {
-        "videoId": "jg83AsLsNCU",
-        "type": "segment",
-        "startTime": 162.0,
-        "endTime": 164.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9731407761573792
         }
     },
     {

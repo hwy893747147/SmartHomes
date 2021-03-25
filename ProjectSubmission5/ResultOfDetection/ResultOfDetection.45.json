@@ -2,20 +2,6 @@
     {
         "videoId": "cViNneQbPyA",
         "type": "segment",
-        "startTime": 0.0,
-        "endTime": 2.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9801005125045776
-        }
-    },
-    {
-        "videoId": "cViNneQbPyA",
-        "type": "segment",
         "startTime": 2.0,
         "endTime": 4.0,
         "observer": "CSCE636Spring2021-heswaggy-5",

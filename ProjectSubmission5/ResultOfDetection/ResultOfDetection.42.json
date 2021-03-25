@@ -2,20 +2,6 @@
     {
         "videoId": "ULLbw1MEaOE",
         "type": "segment",
-        "startTime": 0.0,
-        "endTime": 2.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9284650087356567
-        }
-    },
-    {
-        "videoId": "ULLbw1MEaOE",
-        "type": "segment",
         "startTime": 2.0,
         "endTime": 4.0,
         "observer": "CSCE636Spring2021-heswaggy-5",
@@ -86,34 +72,6 @@
     {
         "videoId": "ULLbw1MEaOE",
         "type": "segment",
-        "startTime": 18.0,
-        "endTime": 20.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9819921255111694
-        }
-    },
-    {
-        "videoId": "ULLbw1MEaOE",
-        "type": "segment",
-        "startTime": 20.0,
-        "endTime": 22.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9630023837089539
-        }
-    },
-    {
-        "videoId": "ULLbw1MEaOE",
-        "type": "segment",
         "startTime": 22.0,
         "endTime": 24.0,
         "observer": "CSCE636Spring2021-heswaggy-5",
@@ -123,20 +81,6 @@
         "observation": {
             "label": "Hand washing",
             "labelConfidence": 0.9891664385795593
-        }
-    },
-    {
-        "videoId": "ULLbw1MEaOE",
-        "type": "segment",
-        "startTime": 30.0,
-        "endTime": 32.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.8257236480712891
         }
     },
     {

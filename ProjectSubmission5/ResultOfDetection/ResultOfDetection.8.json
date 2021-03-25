@@ -2,48 +2,6 @@
     {
         "videoId": "hmtdHV3iGLQ",
         "type": "segment",
-        "startTime": 134.0,
-        "endTime": 136.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9145702123641968
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 136.0,
-        "endTime": 138.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9781988859176636
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 138.0,
-        "endTime": 140.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9729328155517578
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
         "startTime": 140.0,
         "endTime": 142.0,
         "observer": "CSCE636Spring2021-heswaggy-5",
@@ -590,76 +548,6 @@
     {
         "videoId": "hmtdHV3iGLQ",
         "type": "segment",
-        "startTime": 272.0,
-        "endTime": 274.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.8952122926712036
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 274.0,
-        "endTime": 276.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9928938746452332
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 276.0,
-        "endTime": 278.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9642781019210815
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 278.0,
-        "endTime": 280.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.935986340045929
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 280.0,
-        "endTime": 282.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9665475487709045
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
         "startTime": 282.0,
         "endTime": 284.0,
         "observer": "CSCE636Spring2021-heswaggy-5",
@@ -781,20 +669,6 @@
         "observation": {
             "label": "Hand washing",
             "labelConfidence": 0.9926528930664062
-        }
-    },
-    {
-        "videoId": "hmtdHV3iGLQ",
-        "type": "segment",
-        "startTime": 300.0,
-        "endTime": 302.0,
-        "observer": "CSCE636Spring2021-heswaggy-5",
-        "isHuman": false,
-        "confirmedBySomeone": false,
-        "rejectedBySomeone": false,
-        "observation": {
-            "label": "Hand washing",
-            "labelConfidence": 0.9278229475021362
         }
     }
 ]
