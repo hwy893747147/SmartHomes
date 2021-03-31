@@ -1,0 +1,1052 @@
+[
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 54.0,
+        "endTime": 56.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8950446248054504
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 56.0,
+        "endTime": 58.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9863600134849548
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 70.0,
+        "endTime": 72.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8067709803581238
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 110.0,
+        "endTime": 112.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9332223534584045
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 112.0,
+        "endTime": 114.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9655769467353821
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 124.0,
+        "endTime": 126.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9915599226951599
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 130.0,
+        "endTime": 132.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9905943870544434
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 132.0,
+        "endTime": 134.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9455690383911133
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 134.0,
+        "endTime": 136.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9384126663208008
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 136.0,
+        "endTime": 138.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9912029504776001
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 138.0,
+        "endTime": 140.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9808124303817749
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 140.0,
+        "endTime": 142.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8387053608894348
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 142.0,
+        "endTime": 144.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9780902862548828
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 146.0,
+        "endTime": 148.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9377894401550293
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 158.0,
+        "endTime": 160.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9757703542709351
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 164.0,
+        "endTime": 166.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9082402586936951
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 166.0,
+        "endTime": 168.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8276644945144653
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 174.0,
+        "endTime": 176.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9800159335136414
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 176.0,
+        "endTime": 178.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9492007493972778
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 178.0,
+        "endTime": 180.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9642453789710999
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 180.0,
+        "endTime": 182.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9819835424423218
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 188.0,
+        "endTime": 190.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9546053409576416
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 190.0,
+        "endTime": 192.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9943432807922363
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 194.0,
+        "endTime": 196.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.993362307548523
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 198.0,
+        "endTime": 200.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9521922469139099
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 228.0,
+        "endTime": 230.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9978864789009094
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 230.0,
+        "endTime": 232.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9881763458251953
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 232.0,
+        "endTime": 234.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9827702045440674
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 234.0,
+        "endTime": 236.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9981359243392944
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 356.0,
+        "endTime": 358.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8277490139007568
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 358.0,
+        "endTime": 360.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9040663838386536
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 366.0,
+        "endTime": 368.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9217917323112488
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 374.0,
+        "endTime": 376.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9345803260803223
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 376.0,
+        "endTime": 378.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9157512187957764
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 380.0,
+        "endTime": 382.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8356505632400513
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 382.0,
+        "endTime": 384.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9329957962036133
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 396.0,
+        "endTime": 398.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9948358535766602
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 402.0,
+        "endTime": 404.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9887657761573792
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 416.0,
+        "endTime": 418.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9768722057342529
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 428.0,
+        "endTime": 430.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9969786405563354
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 430.0,
+        "endTime": 432.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9945283532142639
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 432.0,
+        "endTime": 434.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9917967319488525
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 436.0,
+        "endTime": 438.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.959710419178009
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 438.0,
+        "endTime": 440.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9960038065910339
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 446.0,
+        "endTime": 448.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9933866858482361
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 448.0,
+        "endTime": 450.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9735952019691467
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 454.0,
+        "endTime": 456.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.983814537525177
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 456.0,
+        "endTime": 458.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9897564053535461
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 458.0,
+        "endTime": 460.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9961470365524292
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 460.0,
+        "endTime": 462.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9983748197555542
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 462.0,
+        "endTime": 464.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9876147508621216
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 468.0,
+        "endTime": 470.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.906073808670044
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 472.0,
+        "endTime": 474.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9893596172332764
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 474.0,
+        "endTime": 476.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9933496117591858
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 476.0,
+        "endTime": 478.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9940098524093628
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 478.0,
+        "endTime": 480.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9985145926475525
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 480.0,
+        "endTime": 482.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9957582354545593
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 484.0,
+        "endTime": 486.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9779894948005676
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 490.0,
+        "endTime": 492.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9982659220695496
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 518.0,
+        "endTime": 520.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9958446621894836
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 520.0,
+        "endTime": 522.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9974662065505981
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 522.0,
+        "endTime": 524.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9984191656112671
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 524.0,
+        "endTime": 526.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9896369576454163
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 526.0,
+        "endTime": 528.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9951352477073669
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 528.0,
+        "endTime": 530.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9520328640937805
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 530.0,
+        "endTime": 532.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9921786785125732
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 532.0,
+        "endTime": 534.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8802655935287476
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 534.0,
+        "endTime": 536.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9987819790840149
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 536.0,
+        "endTime": 538.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9970118999481201
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 538.0,
+        "endTime": 540.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9957996010780334
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 540.0,
+        "endTime": 542.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9975173473358154
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 542.0,
+        "endTime": 544.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.9867029190063477
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 552.0,
+        "endTime": 554.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8130275011062622
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 558.0,
+        "endTime": 560.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.8788579106330872
+        }
+    },
+    {
+        "videoId": "FZWdJFMq_6Y",
+        "type": "segment",
+        "startTime": 572.0,
+        "endTime": 574.0,
+        "observer": "CSCE636Spring2021-heswaggy-6",
+        "isHuman": false,
+        "confirmedBySomeone": false,
+        "rejectedBySomeone": false,
+        "observation": {
+            "label": "Cleaning bathroom",
+            "labelConfidence": 0.80653977394104
+        }
+    }
+]
